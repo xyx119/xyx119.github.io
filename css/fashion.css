@@ -264,6 +264,7 @@ object {
 	font-family: Oswald, "华文中宋", Arial, Helvetica, sans-serif;
 	text-transform: uppercase;
 	line-height: 1em;
+	padding-bottom: 0.4em;
 	}
 .site-title a {
 	color: #333;
