@@ -416,7 +416,7 @@ body {
   margin: 7px 0 20px;
   color: #a6a6a6;
   text-align: center;
-  font-family: Oswald, "方正姚体", Arial, Helvetica, sans-serif;
+  font-family: Oswald, "Microsoft Yahei", Arial, Helvetica, sans-serif;
   font-size: 0.9em;
 }
 .article-meta:before,
@@ -469,7 +469,7 @@ body {
 }
 .article-header h1 {
   margin: 0 0 3px 0;
-  font-size: 2em;
+  font-size: 1.6em;
   line-height: 1.2;
   font-weight: bold;
 }
@@ -980,10 +980,9 @@ a.article-title:hover {
 }
 .nav .active > a {
   color: #333;
-  font-weight: bold;
 }
 .nav-link {
-  font-family: "futura-pt", Helvetica, Arial, "Hiragino Sans GB", "Hiragino Sans GB W3", Microsoft JhengHei, WenQuanYi Micro Hei, "Microsoft YaHei", sans-serif;
+  font-family: 'Helvetica Neue', 'Hiragino Sans GB', 'WenQuanYi Micro Hei', 'Microsoft Yahei', sans-serif;
   color: color-link;
   padding: 1px !important;
 }
@@ -1118,7 +1117,7 @@ a.article-title:hover {
   margin-bottom: 0px;
 }
 .archive-article-title {
-  font-size: 1.2em;
+  font-size: 1.05em;
   text-decoration: none;
   color: #333;
   -webkit-transition: color 0.2s;
@@ -1144,13 +1143,13 @@ a.article-title:hover {
   margin-right: 15px;
   display: block;
   font-size: 1.1em;
-  font-family: "futura-pt", Helvetica, Arial, "Hiragino Sans GB", "Hiragino Sans GB W3", Microsoft JhengHei, WenQuanYi Micro Hei, "Microsoft YaHei", sans-serif;
+  font-family: 'Helvetica Neue', 'Hiragino Sans GB', 'WenQuanYi Micro Hei', 'Microsoft Yahei', sans-serif;
 }
 .archive-article-date:hover {
   color: #1fa0ae;
 }
 #page-nav {
-  font-family: Oswald, "方正姚体", Arial, Helvetica, sans-serif;
+  font-family: Oswald, "Microsoft Yahei", Arial, Helvetica, sans-serif;
   font-size: 1.2em;
   font-weight: 300;
   text-transform: uppercase;
@@ -1702,7 +1701,7 @@ pre .xml .cdata {
   text-transform: uppercase;
   line-height: 1.2;
   color: #222;
-  font-family: Oswald, "方正姚体", Arial, Helvetica, sans-serif;
+  font-family: Oswald, "Microsoft Yahei", Arial, Helvetica, sans-serif;
 }
 .widget_athemes_tabs .widget ul li a:hover {
   color: #1fa0ae;
